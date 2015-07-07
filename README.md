@@ -1,7 +1,7 @@
 Moneta Core integration/staging tree
 =====================================
 
-https://moneta.org
+https://moneta.io
 
 What is Moneta?
 ----------------
@@ -13,7 +13,7 @@ out collectively by the network. Moneta Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Moneta Core software, see https://moneta.org
+the Moneta Core software, see https://moneta.io
 
 License
 -------

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-###   This script attempts to download the signature file SHA256SUMS.asc from moneta.org
+###   This script attempts to download the signature file SHA256SUMS.asc from moneta.io
 ###   It first checks if the signature passes, and then downloads the files specified in
 ###   the file, and checks if the hashes of these files match those that are specified
 ###   in the signature file.
@@ -18,11 +18,11 @@ WORKINGDIR="/tmp/moneta"
 TMPFILE="hashes.tmp"
 
 #this URL is used if a version number is not specified as an argument to the script
-SIGNATUREFILE="https://moneta.org/bin/0.9.2.1/SHA256SUMS.asc"
+SIGNATUREFILE="https://moneta.io/bin/0.9.2.1/SHA256SUMS.asc"
 
 SIGNATUREFILENAME="SHA256SUMS.asc"
 RCSUBDIR="test/"
-BASEDIR="https://moneta.org/bin/"
+BASEDIR="https://moneta.io/bin/"
 VERSIONPREFIX="moneta-"
 RCVERSIONSTRING="rc"
 

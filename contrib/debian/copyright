@@ -8,7 +8,7 @@ Source: http://sourceforge.net/projects/moneta/files/
 Files: *
 Copyright: 2009-2012, Bitcoin Core Developers
 License: Expat
-Comment: The Moneta Core Developers encompasses the current developers listed on moneta.org,
+Comment: The Moneta Core Developers encompasses the current developers listed on moneta.io,
          as well as the numerous contributors to the project.
 
 Files: src/json/*

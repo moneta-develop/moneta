@@ -22,7 +22,7 @@ Build-Depends: debhelper,
  libqrencode-dev,
  libprotobuf-dev, protobuf-compiler
 Standards-Version: 3.9.2
-Homepage: http://www.moneta.org/
+Homepage: http://www.moneta.io/
 Vcs-Git: git://github.com/moneta/moneta.git
 Vcs-Browser: http://github.com/moneta/moneta
 
